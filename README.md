@@ -1,4 +1,4 @@
 # Information Security with HelmetJS - BCrypt
 
 This is the boilerplate for the BCrypt lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/understand-bcrypt-hashes
-this ist an information-security-with-helmetjs tutorial
+this is an information-security-with-helmetjs tutorial
